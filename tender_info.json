@@ -1,0 +1,88 @@
+{
+    "tender_overview": {
+        "reference_number": "e-Tender Notice - NITJ/DRC/PUR/TT/36/2024",
+        "title": "Fabrication of Machine for Continuous Production of Textile Waste Based Composite Materials",
+        "institution": "Dr. B.R. Ambedkar National Institute of Technology (NIT), Jalandhar"
+    },
+    "timeline": {
+        "start_date": "2024-10-16T15:00:00",
+        "last_date_submission_online": "2024-11-06T15:00:00",
+        "physical_submission_fee_emd": "2024-11-07T15:00:00",
+        "technical_bid_opening": "2024-11-07T15:00:00"
+    },
+    "financial_requirements": {
+        "tender_fee": "500 INR (Non-Refundable)",
+        "emd": "90000 INR (Refundable)",
+        "payment_terms": "Demand Draft"
+    },
+    "eligibility_criteria": {
+        "msme_nsic_exemption": "Tender Fee & EMD",
+        "required_document": "Annexure-H duly stamped and signed"
+    },
+    "technical_specifications": {
+        "description": "Fabrication of Machine for Continuous Production of Textile Waste Based Composite Materials",
+        "quantity": 1
+    },
+    "fees_payments": {
+        "submission_method": "Demand Draft",
+        "in_favor_of": {
+            "security_account": "Security- A/c, Dr B R Ambedkar NIT",
+            "director_account": "Director, Dr B R Ambedkar NIT"
+        },
+        "address": "Dean Research and Consultancy, Dr B R Ambedkar National Institute of Technology, G T Road Amritsar By Pass, Jalandhar-144008, Punjab (India)"
+    },
+    "contact_information": {
+        "address": "Dean Research and Consultancy, Dr B R Ambedkar National Institute of Technology, G T Road Amritsar By Pass, Jalandhar-144008, Punjab (India)",
+        "email": "Not provided",
+        "phone": "Not provided"
+    },
+    "tender_evaluation": {
+        "evaluation_stages": [
+            {
+                "stage": "Technical Evaluation",
+                "criteria": [
+                    "Essential eligibility criteria",
+                    "EMD & Tender fee submission",
+                    "Document completeness and correctness",
+                    "Specifications and catalog",
+                    "Authorization certificate from manufacturer",
+                    "Sales & service policy",
+                    "Service center location"
+                ],
+                "shortlist": "Short-listed tenderers will be informed of the date, time, and place of opening of financial bid(s)."
+            }
+        ]
+    },
+    "additional_info": {
+        "domestic_tender": "DPIIT Order dated 16.09.2020",
+        "local_suppliers": {
+            "eligibility": [
+                "Class I and Class II Local Suppliers"
+            ],
+            "requirement": "OEM declaration of Local content percentage",
+            "non_local_supplier_eligibility": false
+        }
+    },
+    "table_data": [
+        {
+            "id": "I",
+            "description": "Downloading & Submission of Online e-tender/bids",
+            "date": "Start Date: 16.10.2024 at 03:00 PM"
+        },
+        {
+            "id": "II",
+            "description": "Last date of submission of online bids",
+            "date": "End Date: 06.11.2024 upto 03:00 PM"
+        },
+        {
+            "id": "III",
+            "description": "Physical submission of Tender Fee and EMD",
+            "date": "End Date: 07.11.2024 upto 03:00 PM"
+        },
+        {
+            "id": "IV",
+            "description": "Opening of Technical e-Bid (online)",
+            "date": "07.11.2024 at 03:00 PM"
+        }
+    ]
+}
